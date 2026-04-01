@@ -117,3 +117,44 @@ Y = mx + c [In algebra = Equals]
 
 
 
+
+
+## Functions
+
+A reusable piece of code that can intake params and output values.
+
+DRY (Don't Repeat Yourself) Principle - If you find yourself copy and pasting any code you need a function
+
+### Constructing Functions
+
+1. Functional Declaration
+2. Function Expression
+3. Arrow
+
+default parameters
+
+
+### Scope
+
+The extent of access to which an entity possesses
+
+1. Global Scope: It can be accessed by the entire file
+2. Local Scope: Encompassed inside function braces
+
+
+## Functional Programming
+
+- Functions can intake other functions as their inputs, return other functions as outputs [Higher Order Function]
+- Assign functions to variables
+- Store as object properties
+- Store in arrays
+
+Functions are treated as first class citizens of the programming language.
+
+### Higher Order Functions
+
+Functions can intake other functions as their inputs, return other functions as outputs
+
+function reference -> functions as arguments
+
+function call -> executing function
